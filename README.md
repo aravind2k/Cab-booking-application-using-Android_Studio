@@ -1,1 +1,1 @@
-# Cab_booking_application
+To use my awesome online cab booking application, click on the folder name and click view raw. Zip folder will be downloaded. Import that folder in android studio and enjoy using that app.
